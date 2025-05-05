@@ -1,0 +1,1 @@
+# DoStupidThingsFasterWithMoreEnergy.github.io
