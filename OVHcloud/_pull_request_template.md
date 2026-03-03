@@ -64,7 +64,7 @@ __or__
 - [ ] Priority Dependency
 
 [^NEW_GUIDE]: You need to create a __`meta.yaml`__ file with at least the __`id`__ _(uuid v4)_ and __`full_slug`__ _([a-z0-9-])_ keys filled in, and edit the index: https://github.com/ovh/docs/blob/develop/pages/index.md.
-    Example:
+    Example (meta.yaml):
     ```yaml
     id: 2a9eb7ad-bf80-4049-a323-021849f37973
     full_slug: this-is-my-full-slug-for-guide-01
