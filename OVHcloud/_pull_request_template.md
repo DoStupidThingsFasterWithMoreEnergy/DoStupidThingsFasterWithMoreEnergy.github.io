@@ -76,7 +76,7 @@ __or__
 [^TRANSLATION_OTHER_TOOL]: Please specify the tool(s) used by replacing __`(specify which tool was used)`__.
 [^MERGE_DATE]: Replace it with a real date.
 [^US_REPLICATE]: If you know about it, please select it else just ignore it.
-[^PRIORITIES]: Definition of priorities:
+[^PRIORITIES]: Definition of priorities:<br>
     &bull; __Urgent__: _This pull-request contains urgent updates or fixes._  
     &bull; __High__: _This pull-request contains high-priority elements._  
     &bull; __Low__: _This pull-request contains documentation which has no critical aspect._  
