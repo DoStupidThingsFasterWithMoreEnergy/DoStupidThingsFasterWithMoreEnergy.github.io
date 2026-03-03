@@ -2,18 +2,17 @@
 
 If you are not familiar with this template, you can switch to the `preview` tab to consult the footnotes for more information on how to fill it out and more.
 
-- Depending on the selections, the corresponding labels will be automatically added when you create/edite your pull request.
-
-- At the creation of the pull request, tests are also conducted:
+- At the creation of the pull-request, or edition of pull-request body/title tests are conducted:
 
   - Check if title contains only ASCII printable characters
   - The presence of a description.
   - If you have selected: `This pull-request shouldn't be merged before`, verification of the date format and that it is indeed in the future.
+  - Depending on the selections, the corresponding labels will be automatically added when you create/edite your pull request.
 
 According to the results, a comment will inform you of what you need to correct.
 
 - If you selected: `Other tool (specify which tool was used)`, please specify the tool(s) used by replacing `(specify which tool was used)`.
-- About `Merge date option` only one is allowed as about `priority` 
+- About `Merge date option` only one is allowed as about `priority` option
 
 Remember that to check a box, replace `- [ ]` with `- [x]` without any spaces around the `x`
 
